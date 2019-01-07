@@ -1,0 +1,17 @@
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BibliotekaPDF\bin\Debug\BibliotekaPDF.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BibliotekaPDF\bin\Debug\BibliotekaPDF.pdb
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BibliotekaPDF\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BibliotekaPDF\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BibliotekaPDF\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BibliotekaPDF\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BibliotekaPDF\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BibliotekaPDF\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BibliotekaPDF\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BibliotekaPDF\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BibliotekaPDF\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BibliotekaPDF\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BibliotekaPDF\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BibliotekaPDF\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BibliotekaPDF\obj\Debug\BibliotekaPDF.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BibliotekaPDF\obj\Debug\BibliotekaPDF.pdb
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BibliotekaPDF\obj\Debug\BibliotekaPDF.csprojResolveAssemblyReference.cache

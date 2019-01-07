@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="10fb702d8f97497f964992577d5951c6" Name="Diagram1">
+        <EntityTypeShape EntityType="DBModel.jelo" Width="1.5" PointX="5.25" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBModel.racun_jelo" Width="1.5" PointX="7.875" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBModel.radno_mjesto" Width="1.5" PointX="0.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBModel.rezervacija" Width="1.5" PointX="3" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBModel.zaposlenik" Width="1.5" PointX="3" PointY="2.5" IsExpanded="true" />
+        <AssociationConnector Association="DBModel.FK__racun_jel__id_je__208CD6FA" ManuallyRouted="false" />
+        <AssociationConnector Association="DBModel.FK_Zaposlenik_RadnoMjesto" ManuallyRouted="false" />
+        <AssociationConnector Association="DBModel.FK_Rezervacija_Zaposlenik" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="DBModel.jelovnik" Width="1.5" PointX="1" PointY="6.75" />
+        <EntityTypeShape EntityType="DBModel.jelovnik_jelo" Width="1.5" PointX="3.25" PointY="9.5" />
+        <AssociationConnector Association="DBModel.FK__jelovnik___id_je__31B762FC" />
+        <AssociationConnector Association="DBModel.FK__jelovnik___id_je__30C33EC3" />
+        <EntityTypeShape EntityType="DBModel.sastojak" Width="1.5" PointX="7.5" PointY="6.25" />
+        <AssociationConnector Association="DBModel.FK_Jelo_SASTOJAK" />
+        <EntityTypeShape EntityType="DBModel.racun" Width="1.5" PointX="5.25" PointY="2.5" />
+        <AssociationConnector Association="DBModel.FK__racun_jel__id_ra__2180FB33" />
+        <AssociationConnector Association="DBModel.FK_Racun_Zaposlenik" />
+        <EntityTypeShape EntityType="DBModel.zalihe" Width="1.5" PointX="6.875" PointY="10.625" />
+        <AssociationConnector Association="DBModel.FK_Sastojak_Zalihe" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

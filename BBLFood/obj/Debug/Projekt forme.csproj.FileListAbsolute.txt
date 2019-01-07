@@ -1,0 +1,26 @@
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\bin\Debug\Projekt forme.exe.config
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\bin\Debug\Projekt forme.exe
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\bin\Debug\Projekt forme.pdb
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt forme.csprojResolveAssemblyReference.cache
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.FrmIzbornik.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.FrmIzdavanjeRacuna.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.FrmIzvjestaji.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.FrmIzvjestajiRacuni.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.FrmIzvjestajiZalihe.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.FrmJela.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.FrmJelovnici.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.FrmNovaRezervacija.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.FrmNoveZalihe.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.FrmNoviJelovnik.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.FrmNoviZaposlenik.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.FrmNovoJelo.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.FrmRezervacije.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.FrmZalihe.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.FrmZaposlenici.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt_forme.Properties.Resources.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt forme.csproj.GenerateResource.Cache
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt forme.exe
+C:\Users\domag\Documents\Visual Studio 2015\Projects\Projekt forme\Projekt forme\obj\Debug\Projekt forme.pdb
+C:\Users\domag\Desktop\BBLFood\BBLFood\bin\Debug\Projekt forme.exe.config
+C:\Users\domag\Desktop\BBLFood\BBLFood\obj\Debug\Projekt forme.exe
+C:\Users\domag\Desktop\BBLFood\BBLFood\obj\Debug\Projekt forme.pdb

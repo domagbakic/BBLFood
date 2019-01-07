@@ -1,0 +1,158 @@
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmGlavniIzbornik.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmJelo.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmJelovnici.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmNovaRezervacija.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmNoviSastojak.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmNoviZaposlenik.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmRacun.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmRadnoMjesto.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmRezervacije.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmZalihe.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmZaposlenici.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.Properties.Resources.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.csproj.GenerateResource.Cache
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\BBLFood.exe.config
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\BBLFood.exe
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\BBLFood.pdb
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\EntityFramework.dll
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\itextsharp.dll
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\itextsharp.pdfa.dll
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\itextsharp.xtra.dll
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\EntityFramework.xml
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\itextsharp.xml
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.exe
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.pdb
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.csprojResolveAssemblyReference.cache
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmIzvjestaji.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmIzvjestajiRacuni.resources
+C:\Users\domag\Documents\Visual Studio 2015\Projects\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmIzvjestajiZalihe.resources
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\BBLFood.exe.config
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.exe
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.pdb
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\BBLFood.exe
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\BBLFood.pdb
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\EntityFramework.dll
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\itextsharp.dll
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\itextsharp.xtra.dll
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\EntityFramework.xml
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\itextsharp.xml
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.csprojResolveAssemblyReference.cache
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmGlavniIzbornik.resources
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmIzvjestaji.resources
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmIzvjestajiRacuni.resources
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmIzvjestajiZalihe.resources
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmJelo.resources
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmJelovnici.resources
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmNovaRezervacija.resources
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmNoviSastojak.resources
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmNoviZaposlenik.resources
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmRacun.resources
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmRadnoMjesto.resources
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmRezervacije.resources
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmZalihe.resources
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmZaposlenici.resources
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.Properties.Resources.resources
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.csproj.GenerateResource.Cache
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\RdlCompile.cache
+C:\Users\Davor\Desktop\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\RdlCompile.compiled
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\BBLFood.exe.config
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.exe
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.pdb
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\BBLFood.exe
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\BBLFood.pdb
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\EntityFramework.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\itextsharp.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\itextsharp.pdfa.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\itextsharp.xtra.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\EntityFramework.xml
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\itextsharp.xml
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.csprojResolveAssemblyReference.cache
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmGlavniIzbornik.resources
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmIzvjestaji.resources
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmIzvjestajiRacuni.resources
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmIzvjestajiZalihe.resources
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmJelo.resources
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmJelovnici.resources
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmNovaRezervacija.resources
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmNoviSastojak.resources
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmNoviZaposlenik.resources
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmRacun.resources
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmRadnoMjesto.resources
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmRezervacije.resources
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmZalihe.resources
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.FrmZaposlenici.resources
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.Properties.Resources.resources
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\BBLFood.csproj.GenerateResource.Cache
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\RdlCompile.cache
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\obj\Debug\RdlCompile.compiled
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\BibliotekaPDF.dll
+C:\Users\domag\Desktop\BBLFood FINAL FINAL\BBLFood - FINAL\BBLFood\BBLFood\bin\Debug\BibliotekaPDF.pdb
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\BBLFood.exe.config
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.exe
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.pdb
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\BBLFood.exe
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\BBLFood.pdb
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\BibliotekaPDF.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\EntityFramework.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\itextsharp.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\itextsharp.pdfa.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\itextsharp.xtra.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\BibliotekaPDF.pdb
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\EntityFramework.xml
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\itextsharp.xml
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.csprojResolveAssemblyReference.cache
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.FrmGlavniIzbornik.resources
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.FrmIzvjestaji.resources
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.FrmIzvjestajiRacuni.resources
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.FrmIzvjestajiZalihe.resources
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.FrmJelo.resources
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.FrmJelovnici.resources
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.FrmNovaRezervacija.resources
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.FrmNoviSastojak.resources
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.FrmNoviZaposlenik.resources
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.FrmRacun.resources
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.FrmRadnoMjesto.resources
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.FrmRezervacije.resources
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.FrmZalihe.resources
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.FrmZaposlenici.resources
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.Properties.Resources.resources
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\BBLFood.csproj.GenerateResource.Cache
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\RdlCompile.cache
+C:\Users\domag\Desktop\r17045-master\BBLFood\BBLFood\obj\Debug\RdlCompile.compiled
+C:\Users\domag\Documents\GitHub\r17045\BBLFood\BBLFood\bin\Debug\BBLFood.exe.config
+C:\Users\domag\Documents\GitHub\r17045\BBLFood\BBLFood\obj\Debug\BBLFood.exe
+C:\Users\domag\Documents\GitHub\r17045\BBLFood\BBLFood\obj\Debug\BBLFood.pdb

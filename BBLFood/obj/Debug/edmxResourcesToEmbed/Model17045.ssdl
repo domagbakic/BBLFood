@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="jelo">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="naziv" Type="varchar" MaxLength="30" />
+    <Property Name="vrsta" Type="varchar" MaxLength="30" />
+    <Property Name="cijena" Type="float" />
+  </EntityType>
+  <EntityType Name="jelovnik">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="naziv" Type="varchar" MaxLength="30" />
+    <Property Name="cijena" Type="float" />
+  </EntityType>
+  <EntityType Name="jelovnik_jelo">
+    <Key>
+      <PropertyRef Name="id_jelovnik" />
+      <PropertyRef Name="id_jelo" />
+    </Key>
+    <Property Name="id_jelovnik" Type="int" Nullable="false" />
+    <Property Name="id_jelo" Type="int" Nullable="false" />
+    <Property Name="kolicina" Type="int" />
+  </EntityType>
+  <EntityType Name="racun">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="datum_vrijeme" Type="datetime" Nullable="false" />
+    <Property Name="iznos" Type="float" Nullable="false" />
+    <Property Name="id_zaposlenik" Type="int" />
+    <Property Name="datum" Type="varchar" MaxLength="15" />
+  </EntityType>
+  <EntityType Name="racun_jelo">
+    <Key>
+      <PropertyRef Name="id_jelo" />
+      <PropertyRef Name="id_racun" />
+    </Key>
+    <Property Name="id_jelo" Type="int" Nullable="false" />
+    <Property Name="id_racun" Type="int" Nullable="false" />
+    <Property Name="kolicina" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="radno_mjesto">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="naziv" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="rezervacija">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ime_narucitelj" Type="varchar" MaxLength="30" />
+    <Property Name="prezime_narucitelj" Type="varchar" MaxLength="30" />
+    <Property Name="kontakt_broj_narucitelj" Type="varchar" MaxLength="30" />
+    <Property Name="id_zaposlenik" Type="int" />
+    <Property Name="broj_stola" Type="int" />
+    <Property Name="objed" Type="varchar" MaxLength="30" />
+    <Property Name="datum" Type="date" />
+    <Property Name="broj_osoba" Type="int" />
+    <Property Name="termin" Type="time" Precision="7" />
+  </EntityType>
+  <EntityType Name="sastojak">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="naziv" Type="varchar" MaxLength="30" />
+    <Property Name="kolicina" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="mjerna_jedinica" Type="varchar" MaxLength="15" />
+    <Property Name="id_jelo" Type="int" />
+    <Property Name="id_zalihe" Type="int" />
+  </EntityType>
+  <EntityType Name="zalihe">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="naziv" Type="varchar" MaxLength="30" />
+    <Property Name="kolicina" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="mjernaJedinica" Type="varchar" MaxLength="15" />
+    <Property Name="kriticna_kolicina" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="datum" Type="varchar" MaxLength="15" />
+  </EntityType>
+  <EntityType Name="zaposlenik">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ime" Type="varchar" MaxLength="30" />
+    <Property Name="prezime" Type="varchar" MaxLength="30" />
+    <Property Name="id_radno_mjesto" Type="int" />
+  </EntityType>
+  <Association Name="FK__jelovnik___id_je__30C33EC3">
+    <End Role="jelovnik" Type="Self.jelovnik" Multiplicity="1" />
+    <End Role="jelovnik_jelo" Type="Self.jelovnik_jelo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="jelovnik">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="jelovnik_jelo">
+        <PropertyRef Name="id_jelovnik" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__jelovnik___id_je__31B762FC">
+    <End Role="jelo" Type="Self.jelo" Multiplicity="1" />
+    <End Role="jelovnik_jelo" Type="Self.jelovnik_jelo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="jelo">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="jelovnik_jelo">
+        <PropertyRef Name="id_jelo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__racun_jel__id_je__208CD6FA">
+    <End Role="jelo" Type="Self.jelo" Multiplicity="1" />
+    <End Role="racun_jelo" Type="Self.racun_jelo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="jelo">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="racun_jelo">
+        <PropertyRef Name="id_jelo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__racun_jel__id_ra__2180FB33">
+    <End Role="racun" Type="Self.racun" Multiplicity="1" />
+    <End Role="racun_jelo" Type="Self.racun_jelo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="racun">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="racun_jelo">
+        <PropertyRef Name="id_racun" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Jelo_SASTOJAK">
+    <End Role="jelo" Type="Self.jelo" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="sastojak" Type="Self.sastojak" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="jelo">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="sastojak">
+        <PropertyRef Name="id_jelo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Racun_Zaposlenik">
+    <End Role="zaposlenik" Type="Self.zaposlenik" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="racun" Type="Self.racun" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="zaposlenik">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="racun">
+        <PropertyRef Name="id_zaposlenik" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Rezervacija_Zaposlenik">
+    <End Role="zaposlenik" Type="Self.zaposlenik" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="rezervacija" Type="Self.rezervacija" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="zaposlenik">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="rezervacija">
+        <PropertyRef Name="id_zaposlenik" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sastojak_Zalihe">
+    <End Role="zalihe" Type="Self.zalihe" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="sastojak" Type="Self.sastojak" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="zalihe">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="sastojak">
+        <PropertyRef Name="id_zalihe" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Zaposlenik_RadnoMjesto">
+    <End Role="radno_mjesto" Type="Self.radno_mjesto" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="zaposlenik" Type="Self.zaposlenik" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="radno_mjesto">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="zaposlenik">
+        <PropertyRef Name="id_radno_mjesto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DBModelStoreContainer">
+    <EntitySet Name="jelo" EntityType="Self.jelo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="jelovnik" EntityType="Self.jelovnik" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="jelovnik_jelo" EntityType="Self.jelovnik_jelo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="racun" EntityType="Self.racun" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="racun_jelo" EntityType="Self.racun_jelo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="radno_mjesto" EntityType="Self.radno_mjesto" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="rezervacija" EntityType="Self.rezervacija" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sastojak" EntityType="Self.sastojak" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="zalihe" EntityType="Self.zalihe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="zaposlenik" EntityType="Self.zaposlenik" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__jelovnik___id_je__30C33EC3" Association="Self.FK__jelovnik___id_je__30C33EC3">
+      <End Role="jelovnik" EntitySet="jelovnik" />
+      <End Role="jelovnik_jelo" EntitySet="jelovnik_jelo" />
+    </AssociationSet>
+    <AssociationSet Name="FK__jelovnik___id_je__31B762FC" Association="Self.FK__jelovnik___id_je__31B762FC">
+      <End Role="jelo" EntitySet="jelo" />
+      <End Role="jelovnik_jelo" EntitySet="jelovnik_jelo" />
+    </AssociationSet>
+    <AssociationSet Name="FK__racun_jel__id_je__208CD6FA" Association="Self.FK__racun_jel__id_je__208CD6FA">
+      <End Role="jelo" EntitySet="jelo" />
+      <End Role="racun_jelo" EntitySet="racun_jelo" />
+    </AssociationSet>
+    <AssociationSet Name="FK__racun_jel__id_ra__2180FB33" Association="Self.FK__racun_jel__id_ra__2180FB33">
+      <End Role="racun" EntitySet="racun" />
+      <End Role="racun_jelo" EntitySet="racun_jelo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Jelo_SASTOJAK" Association="Self.FK_Jelo_SASTOJAK">
+      <End Role="jelo" EntitySet="jelo" />
+      <End Role="sastojak" EntitySet="sastojak" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Racun_Zaposlenik" Association="Self.FK_Racun_Zaposlenik">
+      <End Role="zaposlenik" EntitySet="zaposlenik" />
+      <End Role="racun" EntitySet="racun" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Rezervacija_Zaposlenik" Association="Self.FK_Rezervacija_Zaposlenik">
+      <End Role="zaposlenik" EntitySet="zaposlenik" />
+      <End Role="rezervacija" EntitySet="rezervacija" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sastojak_Zalihe" Association="Self.FK_Sastojak_Zalihe">
+      <End Role="zalihe" EntitySet="zalihe" />
+      <End Role="sastojak" EntitySet="sastojak" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Zaposlenik_RadnoMjesto" Association="Self.FK_Zaposlenik_RadnoMjesto">
+      <End Role="radno_mjesto" EntitySet="radno_mjesto" />
+      <End Role="zaposlenik" EntitySet="zaposlenik" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
